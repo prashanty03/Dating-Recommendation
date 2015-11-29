@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbf42179-0481-4171-b15a-7e73aa980b63" name="Default" comment="" />
+    <list default="true" id="dbf42179-0481-4171-b15a-7e73aa980b63" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/1/_7.fdt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/1/_7.fdx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/1/_7.fnm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/1/_7.frq" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/1/_7.nrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/1/_7.tii" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/1/_7.tis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/1/segments_a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/2/_6.fdt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/2/_6.fdx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/2/_6.fnm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/2/_6.frq" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/2/_6.nrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/2/_6.tii" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/2/_6.tis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/2/segments_9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/3/_6.fdt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/3/_6.fdx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/3/_6.fnm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/3/_6.frq" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/3/_6.nrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/3/_6.tii" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/3/_6.tis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/3/segments_9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/label/lucene/_k.fdt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/label/lucene/_k.fdx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/label/lucene/_k.fnm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/label/lucene/_k.frq" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/label/lucene/_k.nrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/label/lucene/_k.tii" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/label/lucene/_k.tis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/label/lucene/_k_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/label/lucene/_m.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/label/lucene/segments_a" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/index/lucene-store.db" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/index/lucene-store.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/index/lucene.log.1" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/index/lucene.log.1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/neostore" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/neostore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/neostore.nodestore.db" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/neostore.nodestore.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/neostore.nodestore.db.id" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/neostore.nodestore.db.id" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/neostore.propertystore.db" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/neostore.propertystore.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/neostore.propertystore.db.id" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/neostore.propertystore.db.id" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/neostore.relationshipstore.db" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/neostore.relationshipstore.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/neostore.relationshipstore.db.id" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/neostore.relationshipstore.db.id" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/nioneo_logical.log.1" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/nioneo_logical.log.1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/1/segments.gen" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/1/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/2/segments.gen" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/2/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/3/segments.gen" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/schema/index/lucene/3/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/schema/label/lucene/segments.gen" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/schema/label/lucene/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/tm_tx_log.1" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/tm_tx_log.1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/tm_tx_log.2" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/tm_tx_log.2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/keystore" afterPath="$PROJECT_DIR$/neo4j/data/keystore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/rrd" afterPath="$PROJECT_DIR$/neo4j/data/rrd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/plugins/neoLoves-1.0.jar" afterPath="$PROJECT_DIR$/neo4j/plugins/neoLoves-1.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/graph.db/messages.log" afterPath="$PROJECT_DIR$/neo4j/data/graph.db/messages.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/log/console.log" afterPath="$PROJECT_DIR$/neo4j/data/log/console.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/log/neo4j.0.0.log" afterPath="$PROJECT_DIR$/neo4j/data/log/neo4j.0.0.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/neo4j/data/neo4j-service.pid" afterPath="$PROJECT_DIR$/neo4j/data/neo4j-service.pid" />
+    </list>
     <ignored path="neo_loves.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,14 +80,13 @@
     <favorites_list name="neo_loves" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="MyService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unmanaged_extension/src/main/java/org/neo4j/example/unmanagedextension/MyService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="26.333334">
-              <caret line="91" column="9" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="24" />
               <folding>
-                <element signature="imports" expanded="false" />
                 <element signature="e#963#964#0" expanded="false" />
                 <element signature="e#1049#1050#0" expanded="false" />
                 <element signature="e#1738#1739#0" expanded="false" />
@@ -41,48 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.haml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/index.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44270834">
-              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.haml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/layout.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="glyphicons-halflings-white.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/bootstrap/img/glyphicons-halflings-white.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="neo_loves.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/neo_loves.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <caret line="0" column="14" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -92,27 +114,77 @@
         <entry file="file://$PROJECT_DIR$/tasks.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="37" column="681" selection-start-line="37" selection-start-column="681" selection-end-line="37" selection-end-column="681" />
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.haml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/partials/footer.haml">
+      <file leaf-file-name="neo4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neo4j/conf/neo4j.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.haml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/partials/header.haml">
+      <file leaf-file-name="neo4j-server.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neo4j/conf/neo4j-server.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="42" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ru" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.ru">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.18229167">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rakefile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rakefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -135,12 +207,13 @@
         <option value="$PROJECT_DIR$/unmanaged_extension/src/main/java/org/neo4j/example/unmanagedextension/Labels.java" />
         <option value="$PROJECT_DIR$/unmanaged_extension/src/main/java/org/neo4j/example/unmanagedextension/MyService.java" />
         <option value="$PROJECT_DIR$/views/partials/footer.haml" />
-        <option value="$PROJECT_DIR$/tasks.rb" />
         <option value="$PROJECT_DIR$/views/layout.haml" />
-        <option value="$PROJECT_DIR$/neo_loves.rb" />
         <option value="$PROJECT_DIR$/public/css/style.css" />
         <option value="$PROJECT_DIR$/views/partials/header.haml" />
         <option value="$PROJECT_DIR$/views/index.haml" />
+        <option value="$PROJECT_DIR$/neo_loves.rb" />
+        <option value="$PROJECT_DIR$/tasks.rb" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
@@ -175,7 +248,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
@@ -185,15 +257,9 @@
               <option name="myItemId" value="neo_loves" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="neo_loves" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neo_loves" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -202,66 +268,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="neo_loves" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neo_loves" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neo_loves" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neo_loves" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neo_loves" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neo4j" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neo_loves" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neo_loves" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neo4j" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
+              <option name="myItemId" value="Dating-Recommendation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -539,26 +552,26 @@
     <frame x="10" y="43" width="1260" height="673" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -578,47 +591,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/unmanaged_extension/src/main/java/org/neo4j/example/unmanagedextension/Labels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18229167">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.546875">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unmanaged_extension/src/main/java/org/neo4j/example/unmanagedextension/RelationshipTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18229167">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rakefile">
+    <entry file="file://$PROJECT_DIR$/unmanaged_extension/src/main/java/org/neo4j/example/unmanagedextension/MyService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="14" />
+          <caret line="91" column="9" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unmanaged_extension/src/test/java/org/neo4j/example/unmanagedextension/MyServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0625">
-          <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/user.haml">
+    <entry file="file://$PROJECT_DIR$/views/index.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -626,10 +607,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.ru">
+    <entry file="file://$PROJECT_DIR$/views/layout.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bootstrap/img/glyphicons-halflings-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo_loves.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -642,21 +644,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unmanaged_extension/src/main/java/org/neo4j/example/unmanagedextension/MyService.java">
+    <entry file="file://$PROJECT_DIR$/views/partials/footer.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="26.333334">
-          <caret line="91" column="9" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#963#964#0" expanded="false" />
-            <element signature="e#1049#1050#0" expanded="false" />
-            <element signature="e#1738#1739#0" expanded="false" />
-            <element signature="e#1818#1819#0" expanded="false" />
-            <element signature="e#2486#2487#0" expanded="false" />
-            <element signature="e#2564#2565#0" expanded="false" />
-            <element signature="e#3006#3007#0" expanded="false" />
-            <element signature="e#3043#3044#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unmanaged_extension/src/main/java/org/neo4j/example/unmanagedextension/Labels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18229167">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.546875">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unmanaged_extension/src/main/java/org/neo4j/example/unmanagedextension/RelationshipTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18229167">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unmanaged_extension/src/test/java/org/neo4j/example/unmanagedextension/MyServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0625">
+          <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/user.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -683,14 +710,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/neo_loves.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -711,14 +730,102 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44270834">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4j/conf/neo4j-server.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4j/conf/neo4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unmanaged_extension/src/main/java/org/neo4j/example/unmanagedextension/MyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="e#963#964#0" expanded="false" />
+            <element signature="e#1049#1050#0" expanded="false" />
+            <element signature="e#1738#1739#0" expanded="false" />
+            <element signature="e#1818#1819#0" expanded="false" />
+            <element signature="e#2486#2487#0" expanded="false" />
+            <element signature="e#2564#2565#0" expanded="false" />
+            <element signature="e#3006#3007#0" expanded="false" />
+            <element signature="e#3043#3044#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo_loves.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="42" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ru">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18229167">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="18" />
           <folding />
         </state>
       </provider>
