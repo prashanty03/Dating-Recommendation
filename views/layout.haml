@@ -1,0 +1,25 @@
+!!! 5
+%html{ :lang => "en"}
+  %head
+    %title= "Check Mate"
+    /[if lt IE 9]
+      %script(src="http://html5shiv.googlecode.com/svn/trunk/html5.js")
+
+
+    %link{href: "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css", rel: "stylesheet", integrity: "sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==", crossorigin: "anonymous"}
+    %script{src: "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js", integrity: "sha256-KXn5puMvxCw+dAYznun+drMdG1IFl3agK0p/pqT9KAo= sha512-2e8qq0ETcfWRI4HJBzQiA3UoyFk6tbNyG+qSaIBZLyW9Xf3sWZHN/lxe9fTh1U45DpPf07yj94KsUHHWe4Yk1A==", crossorigin: "anonymous"}
+
+    %meta{ 'http-equiv' => "Content-Type", :content => "text/html; charset=UTF-8"}
+
+    %link{ rel: "apple-touch-icon", href: "/bootstrap/images/apple-touch-icon.png"}
+    %link{ rel: "shortcut icon", href: "/favicon.ico"}
+    %link{ rel: "apple-touch-icon", sizes: "72x72", href: "/bootstrap/images/apple-touch-icon-72x72.png"}
+    %link{ rel: "apple-touch-icon", sizes: "114x114", href: "/bootstrap/images/apple-touch-icon-114x114.png"}
+    %link{ rel: "stylesheet", type: "text/css", href: "/css/style.css"}
+  %body
+    %header
+      = haml  :'partials/header'
+    %section{:id => 'container'}
+      = yield
+    %footer
+      = haml  :'partials/footer'

@@ -1,0 +1,44 @@
+.container
+  .content
+    .row
+      %img{:alt => "Smiley face",:align => "center", :src => "/bootstrap/img/logo1.png"}
+      %hr/
+      %i
+        %form.form-inline{:action => "/user", :method => "POST", :role => "form"}
+          .form-group
+            %label{:for => "name"} Name:
+            %input.form-control{:placeholder => "Enter Name", :type => "text", :name =>"name"}
+          %button.btn.btn-default{:type => "submit"} Submit
+      %hr/
+      %h4
+        Finding potential matches for
+        %a{:href => "#"}
+          = @user
+
+          %hr/
+      %table{:class => "table table-striped"}
+        %tr
+          %th People you might date
+          %th Compatibility
+          %th What you want
+          %th What they want
+
+        - @loves.each_with_index do |love, index|
+          %tr
+            %td
+              %img{:alt => "Smiley face", :height => "42", :src => "/bootstrap/img/pp.png", :width => "42"}/
+              = love["name"]
+              located in
+              %i= love["location"]
+            %td
+              = love["matching_wants"] / (1.0 / love["matching_has"])
+            %td
+              - love["my_interests"].each do |att|
+                %img{:alt => "Attributes", :height => "20", :src => "/bootstrap/img/heart-icon.png", :width => "20"}/
+                =att
+                %br/
+            %td
+              - love["their_interests"].each do |att|
+                %img{:alt => "Attributes", :height => "20", :src => "/bootstrap/img/heart-icon.png", :width => "20"}/
+                =att
+                %br/
